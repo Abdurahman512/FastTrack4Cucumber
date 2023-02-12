@@ -16,7 +16,7 @@ Feature: Validate if navigation bar is visible
   @wip
   Scenario Outline: login with different role
     When user choose "<role>"
-    Then user should be able to see options printed
+    Then user is on the dashboard
     Examples:
       | role  |
       | Sales |
