@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e789c08-258e-4879-96c4-aaa9762d9991" name="Changes" comment="cukes class is added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/VyTrackLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/step_definitions/VyTrackLoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/vyTrackLogin.feature" afterDir="false" />
+    <list default="true" id="3e789c08-258e-4879-96c4-aaa9762d9991" name="Changes" comment="add vytrack login test">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/step_definitions/DashboardTestSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/dashboardTest.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/runner/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/vyTrackLogin.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/vyTrackLogin.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +41,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Zulpikar/IdeaProjects/FastTrack4Cucumber/src/test/java/com/cydeo/utilities"
+    "last_opened_file_path": "C:/Users/Zulpikar/IdeaProjects/FastTrack4Cucumber"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zulpikar\IdeaProjects\FastTrack4Cucumber" />
       <recent name="C:\Users\Zulpikar\IdeaProjects\FastTrack4Cucumber\src\test\java\com\cydeo\utilities" />
     </key>
   </component>
@@ -79,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676213169805</updated>
-      <workItem from="1676213171333" duration="5055000" />
+      <workItem from="1676213171333" duration="6435000" />
     </task>
     <task id="LOCAL-00001" summary="first push">
       <created>1676215732657</created>
@@ -109,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676216734772</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add vytrack login test">
+      <created>1676219067894</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676219067894</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first push" />
     <MESSAGE value="cukes class is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="cukes class is added" />
+    <MESSAGE value="add vytrack login test" />
+    <option name="LAST_COMMIT_MESSAGE" value="add vytrack login test" />
   </component>
 </project>

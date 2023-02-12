@@ -1,7 +1,7 @@
 Feature: Vytrack login
 
 
-  @wip
+#  @wip
   Scenario: login as driver
     Given user go to vytrack login page
     When user enter username and password, then click login button
