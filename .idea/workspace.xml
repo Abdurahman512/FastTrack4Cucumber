@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e789c08-258e-4879-96c4-aaa9762d9991" name="Changes" comment="add vytrack login test">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/Dashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/step_definitions/DashboardTestSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/dashboardTest.feature" afterDir="false" />
+    <list default="true" id="3e789c08-258e-4879-96c4-aaa9762d9991" name="Changes" comment="add vytrack dashboard&#10; test">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/step_definitions/Hooks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/vyTrackLogin.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/vyTrackLogin.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/dashboardTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/dashboardTest.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,9 @@
       <recent name="C:\Users\Zulpikar\IdeaProjects\FastTrack4Cucumber" />
       <recent name="C:\Users\Zulpikar\IdeaProjects\FastTrack4Cucumber\src\test\java\com\cydeo\utilities" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cydeo.step_definitions" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -80,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676213169805</updated>
-      <workItem from="1676213171333" duration="6435000" />
+      <workItem from="1676213171333" duration="7726000" />
     </task>
     <task id="LOCAL-00001" summary="first push">
       <created>1676215732657</created>
@@ -117,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676219067894</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add vytrack dashboard&#10; test">
+      <created>1676220474374</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676220474374</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +146,7 @@
     <MESSAGE value="first push" />
     <MESSAGE value="cukes class is added" />
     <MESSAGE value="add vytrack login test" />
-    <option name="LAST_COMMIT_MESSAGE" value="add vytrack login test" />
+    <MESSAGE value="add vytrack dashboard&#10; test" />
+    <option name="LAST_COMMIT_MESSAGE" value="add vytrack dashboard&#10; test" />
   </component>
 </project>
